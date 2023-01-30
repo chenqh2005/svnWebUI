@@ -4,18 +4,6 @@
 #### 介绍
 svnWebUI是一款svn服务端web图形化管理工具, 是一个搭建svn服务器的神器.
 
-github: https://github.com/cym1102/svnWebUI
-
-QQ技术交流群1: 1106758598
-
-QQ技术交流群2: 560797506
-
-邮箱: cym1102@qq.com
-
-微信捐赠二维码
-
-<img src="http://www.nginxwebui.cn/img/weixin.png"  height="200" width="200">
-
 #### 功能说明
 
 svnWebUI是一款图形化管理Subversion的配置得工具, 虽说现在已进入git的时代, 但svn依然有不少使用场景, 比如公司内的文档管理与共享, svn的概念比git的少很多, 非常适合非程序员使用.
